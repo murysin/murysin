@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning HTML, CSS, JS, React
 - 💞️ I’m looking to collaborate on full time in a startup
-- 📫 How to reach me: Telegram: @murysin, Mail: murysin@gmail.com.
+- 📫 How to reach me: Telegram: https://t.me/murysin, Mail: murysin@gmail.com.
